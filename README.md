@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paras2001-hub
 - 👀 I’m interested in ML, App Development (Flutter)
-- 🌱 I’m currently learning Tensorflow, Web Development
+- 🌱 I’m currently learning Tensorflow, Web Development, AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
